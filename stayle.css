@@ -1,0 +1,46 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    text-align: left;
+   background-image: url(Restaurant.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    
+}
+
+p{
+    text-align: center;
+}
+h1 {
+    color: maroon;
+    text-align: center;
+    text-align: center;
+   
+}
+table {
+    margin-left: 20px auto;
+    border: 2px solid blue;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    margin: 0px auto ;
+    
+}
+th, td {
+    border: 2px solid blue;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: lightblue;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+a:active {
+    color: blue;
+}
+a:visited {
+    color: red;
+}
